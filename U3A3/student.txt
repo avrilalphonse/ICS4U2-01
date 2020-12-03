@@ -1,0 +1,5 @@
+Name: George Brown
+Grade: 10
+Birthday: 01/04/2004
+Gender: Male
+School: Mary Ward CHS
