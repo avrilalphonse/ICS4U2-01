@@ -1,0 +1,27 @@
+Student Name: Emily Reed
+Student Number: 331-231-435
+Grade: 9
+
+Course 1: French 
+Grade Average: 86%
+
+Course 2: Geography
+Grade Average: 70%
+
+Course 3: Mathematics
+Grade Average: 85%
+
+Course 4: English
+Grade Average: 91%
+
+Course 5: Science
+Grade Average: 89%
+
+Course 6: Religion
+Grade Average: 83%
+
+Course 7: Music
+Grade Average: 04%
+
+Course 8: Gym
+Grade Average: 88%
